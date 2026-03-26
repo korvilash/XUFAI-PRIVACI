@@ -60,7 +60,3 @@
 **Contacto:**
 - Discord: `Korvilash`
 
----
-
-### Enlace para Discord
-Una vez subas este `README.md` a un repositorio público de GitHub, puedes usar la URL del repositorio como **URL de Política de Privacidad** y **URL de Condiciones del Servicio**.
